@@ -4,7 +4,8 @@ import { Button } from "@material-tailwind/react";
 
 export function FixedPlugin() {
   return (
-    <a href="https://www.material-tailwind.com" target="_blank">
+    <></>
+    /**<a href="https://www.material-tailwind.com" target="_blank">
       <Button
         color="white"
         size="sm"
@@ -19,6 +20,6 @@ export function FixedPlugin() {
         />{" "}
         Made With Material Tailwind
       </Button>
-    </a>
+    </a>**/
   );
 }
